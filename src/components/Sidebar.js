@@ -43,7 +43,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="https://github.com/PiotrBurda1"
             target="_blank"
             rel="noreferrer"
           >
