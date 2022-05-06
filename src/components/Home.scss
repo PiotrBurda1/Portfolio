@@ -151,7 +151,14 @@
     transform: rotateX(90deg);
   }
 }
-
+@media only screen and (max-width: 768px) {
+  .home-page {
+    h1 {
+      font-size: 42.5px;
+      line-height: 40px;
+    }
+  }
+}
 @media only screen and (max-width: 576px) {
   .home-page {
     .text-zone {
